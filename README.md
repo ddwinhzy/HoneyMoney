@@ -4,10 +4,10 @@ An elegant and intuitive iOS personal finance app that helps users easily track 
 
 ## Features
 
-- ? **Expense Tracking**: Quickly record daily expenses
-- ? **Data Statistics**: Visualize spending trends and category statistics  
-- ? **Transaction History**: View and manage historical expense records
-- ?? **Personalized Settings**: Customize currency, categories and themes
+- **Expense Tracking**: Quickly record daily expenses
+- **Data Statistics**: Visualize spending trends and category statistics  
+- **Transaction History**: View and manage historical expense records
+- **Personalized Settings**: Customize currency, categories and themes
 
 ## Tech Stack
 
