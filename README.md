@@ -32,15 +32,12 @@ open HoneyMoney.xcodeproj
 
 ## Project Structure
 
-```
-HoneyMoney/
-??? HoneyMoney/              # Main app code
-?   ??? ContentView.swift    # Main view
-?   ??? Item.swift          # Data models
-?   ??? Assets.xcassets/    # Resource files
-??? HoneyMoneyTests/         # Unit tests
-??? HoneyMoneyUITests/       # UI tests
-```
+- **HoneyMoney/** - Main application source code
+- **ContentView.swift** - Main user interface and tab navigation
+- **Item.swift** - Data models for expenses and categories
+- **Assets.xcassets/** - App icons and image resources
+- **HoneyMoneyTests/** - Unit tests
+- **HoneyMoneyUITests/** - UI automation tests
 
 ## Development Roadmap
 
